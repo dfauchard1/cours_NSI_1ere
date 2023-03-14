@@ -1,0 +1,2 @@
+def moyenne(tab):
+    pass
