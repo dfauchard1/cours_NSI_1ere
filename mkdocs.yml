@@ -2,7 +2,6 @@ site_name: "Cours et exercices NSI 1ère"
 site_url: https://dfauchard1.github.io/cours-1ere
 #repo_url: https://gitlab.com/bouillotvincent/pyodide-mkdocs
 #edit_uri: tree/main/docs/
-
 site_description: Cours et exercices NSI première
 #copyright: |
 #  Copyleft &#127279 2021 <a href="https://bouillotvincent.gitlab.io/tests-avec-mkdocs/" target="_blank" rel="noopener">Vincent BOUILLOT</a>
