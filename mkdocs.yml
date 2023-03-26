@@ -10,7 +10,7 @@ docs_dir: docs
 nav:
   - "Introduction" : index.md
   - "Installation de Python": cours/installation_python.md
-#  - "Guide du Terminal 🐍": install_term.md
+#  - "Guide du Terminal 🐍": cours/essai.md
 #  - "Guide de l'IDE 🐍" : install_ide.md
   - "Les bases de la programmation": cours/bases_programmation.md
   - "Types de base": cours/types_de_base.md
